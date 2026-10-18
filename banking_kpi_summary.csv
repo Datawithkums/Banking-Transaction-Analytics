@@ -1,0 +1,8 @@
+Metric,Value
+Total Transactions,"550,000"
+Successful Transactions,"506,247"
+Failed Transactions,"21,905"
+Fraud-Flagged Transactions,"4,873"
+Success Rate (%),92.04%
+Failure Rate (%),3.98%
+Fraud-Flag Rate (%),0.89%

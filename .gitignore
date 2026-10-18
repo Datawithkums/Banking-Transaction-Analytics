@@ -1,0 +1,8 @@
+
+.venv/
+venv/
+__pycache__/
+.idea/
+*.pyc
+.env
+indian_banking_transactions.csv
